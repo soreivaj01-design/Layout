@@ -1,0 +1,173 @@
+<svg width="360" height="750" viewBox="0 0 360 750" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="360" height="750" fill="#f8f9fa" stroke="#dee2e6" />
+  <text x="20" y="40" font-family="sans-serif" font-size="20" fill="#adb5bd" font-weight="bold">NAVE 5: ESTATUS DE CORTINAS</text>
+
+  <rect id="R01" x="30" y="80" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="30" y="145" font-family="sans-serif" font-size="9">R01</text>
+  <rect id="R02" x="62" y="80" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="62" y="145" font-family="sans-serif" font-size="9">R02</text>
+  <rect id="R03" x="94" y="80" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="94" y="145" font-family="sans-serif" font-size="9">R03</text>
+  <rect id="R04" x="126" y="80" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="126" y="145" font-family="sans-serif" font-size="9">R04</text>
+  <rect id="R05" x="158" y="80" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="158" y="145" font-family="sans-serif" font-size="9">R05</text>
+  <rect id="R06" x="190" y="80" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="190" y="145" font-family="sans-serif" font-size="9">R06</text>
+  <rect id="R07" x="222" y="80" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="222" y="145" font-family="sans-serif" font-size="9">R07</text>
+  <rect id="R08" x="254" y="80" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="254" y="145" font-family="sans-serif" font-size="9">R08</text>
+  <rect id="R09" x="286" y="80" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="286" y="145" font-family="sans-serif" font-size="9">R09</text>
+  <rect id="R10" x="318" y="80" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="318" y="145" font-family="sans-serif" font-size="9">R10</text>
+
+  <rect id="R11" x="30" y="160" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="30" y="225" font-family="sans-serif" font-size="9">R11</text>
+  <rect id="R12" x="62" y="160" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="62" y="225" font-family="sans-serif" font-size="9">R12</text>
+  <rect id="R13" x="94" y="160" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="94" y="225" font-family="sans-serif" font-size="9">R13</text>
+  <rect id="R14" x="126" y="160" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="126" y="225" font-family="sans-serif" font-size="9">R14</text>
+  <rect id="R15" x="158" y="160" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="158" y="225" font-family="sans-serif" font-size="9">R15</text>
+  <rect id="R16" x="190" y="160" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="190" y="225" font-family="sans-serif" font-size="9">R16</text>
+  <rect id="R17" x="222" y="160" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="222" y="225" font-family="sans-serif" font-size="9">R17</text>
+  <rect id="R18" x="254" y="160" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="254" y="225" font-family="sans-serif" font-size="9">R18</text>
+  <rect id="R19" x="286" y="160" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="286" y="225" font-family="sans-serif" font-size="9">R19</text>
+  <rect id="R20" x="318" y="160" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="318" y="225" font-family="sans-serif" font-size="9">R20</text>
+
+  <rect id="R21" x="30" y="240" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="30" y="305" font-family="sans-serif" font-size="9">R21</text>
+  <rect id="R22" x="62" y="240" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="62" y="305" font-family="sans-serif" font-size="9">R22</text>
+  <rect id="R23" x="94" y="240" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="94" y="305" font-family="sans-serif" font-size="9">R23</text>
+  <rect id="R24" x="126" y="240" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="126" y="305" font-family="sans-serif" font-size="9">R24</text>
+  <rect id="R25" x="158" y="240" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="158" y="305" font-family="sans-serif" font-size="9">R25</text>
+  <rect id="R26" x="190" y="240" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="190" y="305" font-family="sans-serif" font-size="9">R26</text>
+  <rect id="R27" x="222" y="240" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="222" y="305" font-family="sans-serif" font-size="9">R27</text>
+  <rect id="R28" x="254" y="240" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="254" y="305" font-family="sans-serif" font-size="9">R28</text>
+  <rect id="R29" x="286" y="240" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="286" y="305" font-family="sans-serif" font-size="9">R29</text>
+  <rect id="R30" x="318" y="240" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="318" y="305" font-family="sans-serif" font-size="9">R30</text>
+
+  <rect id="R31" x="30" y="320" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="30" y="385" font-family="sans-serif" font-size="9">R31</text>
+  <rect id="R32" x="62" y="320" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="62" y="385" font-family="sans-serif" font-size="9">R32</text>
+  <rect id="R33" x="94" y="320" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="94" y="385" font-family="sans-serif" font-size="9">R33</text>
+  <rect id="R34" x="126" y="320" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="126" y="385" font-family="sans-serif" font-size="9">R34</text>
+  <rect id="R35" x="158" y="320" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="158" y="385" font-family="sans-serif" font-size="9">R35</text>
+  <rect id="R36" x="190" y="320" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="190" y="385" font-family="sans-serif" font-size="9">R36</text>
+  <rect id="R37" x="222" y="320" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="222" y="385" font-family="sans-serif" font-size="9">R37</text>
+  <rect id="R38" x="254" y="320" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="254" y="385" font-family="sans-serif" font-size="9">R38</text>
+  <rect id="R39" x="286" y="320" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="286" y="385" font-family="sans-serif" font-size="9">R39</text>
+  <rect id="R40" x="318" y="320" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="318" y="385" font-family="sans-serif" font-size="9">R40</text>
+
+  <rect id="R41" x="30" y="400" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="30" y="465" font-family="sans-serif" font-size="9">R41</text>
+  <rect id="R42" x="62" y="400" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="62" y="465" font-family="sans-serif" font-size="9">R42</text>
+  <rect id="R43" x="94" y="400" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="94" y="465" font-family="sans-serif" font-size="9">R43</text>
+  <rect id="R44" x="126" y="400" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="126" y="465" font-family="sans-serif" font-size="9">R44</text>
+  <rect id="R45" x="158" y="400" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="158" y="465" font-family="sans-serif" font-size="9">R45</text>
+  <rect id="R46" x="190" y="400" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="190" y="465" font-family="sans-serif" font-size="9">R46</text>
+  <rect id="R47" x="222" y="400" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="222" y="465" font-family="sans-serif" font-size="9">R47</text>
+  <rect id="R48" x="254" y="400" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="254" y="465" font-family="sans-serif" font-size="9">R48</text>
+  <rect id="R49" x="286" y="400" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="286" y="465" font-family="sans-serif" font-size="9">R49</text>
+  <rect id="R50" x="318" y="400" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="318" y="465" font-family="sans-serif" font-size="9">R50</text>
+
+  <rect id="R51" x="30" y="480" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="30" y="545" font-family="sans-serif" font-size="9">R51</text>
+  <rect id="R52" x="62" y="480" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="62" y="545" font-family="sans-serif" font-size="9">R52</text>
+  <rect id="R53" x="94" y="480" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="94" y="545" font-family="sans-serif" font-size="9">R53</text>
+  <rect id="R54" x="126" y="480" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="126" y="545" font-family="sans-serif" font-size="9">R54</text>
+  <rect id="R55" x="158" y="480" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="158" y="545" font-family="sans-serif" font-size="9">R55</text>
+  <rect id="R56" x="190" y="480" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="190" y="545" font-family="sans-serif" font-size="9">R56</text>
+  <rect id="R57" x="222" y="480" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="222" y="545" font-family="sans-serif" font-size="9">R57</text>
+  <rect id="R58" x="254" y="480" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="254" y="545" font-family="sans-serif" font-size="9">R58</text>
+  <rect id="R59" x="286" y="480" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="286" y="545" font-family="sans-serif" font-size="9">R59</text>
+  <rect id="R60" x="318" y="480" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="318" y="545" font-family="sans-serif" font-size="9">R60</text>
+
+  <rect id="R61" x="30" y="560" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="30" y="625" font-family="sans-serif" font-size="9">R61</text>
+  <rect id="R62" x="62" y="560" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="62" y="625" font-family="sans-serif" font-size="9">R62</text>
+  <rect id="R63" x="94" y="560" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="94" y="625" font-family="sans-serif" font-size="9">R63</text>
+  <rect id="R64" x="126" y="560" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="126" y="625" font-family="sans-serif" font-size="9">R64</text>
+  <rect id="R65" x="158" y="560" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="158" y="625" font-family="sans-serif" font-size="9">R65</text>
+  <rect id="R66" x="190" y="560" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="190" y="625" font-family="sans-serif" font-size="9">R66</text>
+  <rect id="R67" x="222" y="560" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="222" y="625" font-family="sans-serif" font-size="9">R67</text>
+  <rect id="R68" x="254" y="560" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="254" y="625" font-family="sans-serif" font-size="9">R68</text>
+  <rect id="R69" x="286" y="560" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="286" y="625" font-family="sans-serif" font-size="9">R69</text>
+  <rect id="R70" x="318" y="560" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="318" y="625" font-family="sans-serif" font-size="9">R70</text>
+
+  <rect id="R71" x="30" y="640" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="30" y="705" font-family="sans-serif" font-size="9">R71</text>
+  <rect id="R72" x="62" y="640" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="62" y="705" font-family="sans-serif" font-size="9">R72</text>
+  <rect id="R73" x="94" y="640" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="94" y="705" font-family="sans-serif" font-size="9">R73</text>
+  <rect id="R74" x="126" y="640" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="126" y="705" font-family="sans-serif" font-size="9">R74</text>
+  <rect id="R75" x="158" y="640" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="158" y="705" font-family="sans-serif" font-size="9">R75</text>
+  <rect id="R76" x="190" y="640" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="190" y="705" font-family="sans-serif" font-size="9">R76</text>
+  <rect id="R77" x="222" y="640" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="222" y="705" font-family="sans-serif" font-size="9">R77</text>
+  <rect id="R78" x="254" y="640" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="254" y="705" font-family="sans-serif" font-size="9">R78</text>
+  <rect id="R79" x="286" y="640" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="286" y="705" font-family="sans-serif" font-size="9">R79</text>
+  <rect id="R80" x="318" y="640" width="22" height="50" fill="#6c757d" stroke="#343a40" />
+  <text x="318" y="705" font-family="sans-serif" font-size="9">R80</text>
+
+</svg>
