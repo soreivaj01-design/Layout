@@ -1,4 +1,4 @@
-<svg width="700" height="450" viewBox="0 0 700 450" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 700 450" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg">
   <rect x="0" y="0" width="700" height="450" fill="#f8f9fa" stroke="#dee2e6" />
   <text x="20" y="40" font-family="sans-serif" font-size="24" fill="#adb5bd" font-weight="bold">NAVE 5: ESTATUS DE CORTINAS</text>
 
